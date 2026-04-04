@@ -1,12 +1,10 @@
 {
   "name": "Rep Daddy",
   "short_name": "Rep Daddy",
-  "start_url": "./?v=4.2",
-  "scope": "./",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0b0d12",
   "theme_color": "#0b0d12",
-  "description": "Premium training tracker",
   "icons": [
     {
       "src": "icon-180.png",
