@@ -1,18 +1,10 @@
-# Rep Daddy v4 Premium
+Rep Daddy v4.1 workout UI refinement
 
-GitHub Pages ready premium version.
-
-## Files
+Updated files:
 - index.html
 - manifest.webmanifest
 - sw.js
-- icon-180.png
-- icon-192.png
-- icon-512.png
 
-## Deploy
-1. Upload all files to repo root.
-2. Settings → Pages
-3. Deploy from branch → main → /(root)
-4. Open the GitHub Pages URL in Safari.
-5. Share → Add to Home Screen
+Notes:
+- Reuse your existing icon files already in the repo: icon-180.png, icon-192.png, icon-512.png
+- This update makes exercises collapsed by default, uses one-open-at-a-time accordion behavior, changes set labels to Set 1 / Set 2 / Set 3, and refines the floating timer.
