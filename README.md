@@ -1,17 +1,25 @@
-Rep Daddy icon-integrated pack
+Rep Daddy Aqua Minimal Pack
 
 Included:
 - index.html
 - manifest.webmanifest
 - sw.js
-- icon-180.png
-- icon-192.png
-- icon-512.png
-- rd-logo.png
+- rd-logo-cropped.png
+- README.md
 
-This pack is already wired so:
-- app install icon uses the couple blue-glass image
-- top-left in-app logo uses rd-logo.png
+This version:
+- simplifies the home screen
+- uses a glossy aqua blue background
+- uses transparent glass-style layout
+- keeps the workout screen logic and centered empty state
+- uses rd-logo-cropped.png in the top-left header
 
-Upload all files to the root of your GitHub repo, replacing existing files where needed.
-Then commit, wait for GitHub Pages to rebuild, and remove/re-add the Home Screen app once so iPhone refreshes the icon cache.
+Replace:
+- index.html
+- manifest.webmanifest
+- sw.js
+
+Also upload:
+- rd-logo-cropped.png
+
+Keep your existing app icon files unless you want to replace them too.

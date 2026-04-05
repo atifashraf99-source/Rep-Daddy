@@ -2,8 +2,8 @@
   "name": "Rep Daddy",
   "short_name": "Rep Daddy",
   "display": "standalone",
-  "background_color": "#1e6fd9",
-  "theme_color": "#1e6fd9",
+  "background_color": "#35b8ff",
+  "theme_color": "#35b8ff",
   "start_url": "./",
   "scope": "./",
   "icons": [
