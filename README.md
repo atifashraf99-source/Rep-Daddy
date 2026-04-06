@@ -1,18 +1,25 @@
-Rep Daddy Aqua Minimal Pack
+Rep Daddy Reimagined Pack
 
 Included:
 - index.html
 - manifest.webmanifest
 - sw.js
-- rd-logo-cropped.png
+- hero-couple.jpg
 - README.md
 
-This version:
-- simplifies the home screen
-- uses a glossy aqua blue background
-- uses transparent glass-style layout
-- keeps the workout screen logic and centered empty state
-- uses rd-logo-cropped.png in the top-left header
+Features included:
+- top blended hero image
+- cleaner premium home layout
+- 15 built-in templates
+- create/load/save/rename/delete templates
+- active workout system
+- add/remove exercises
+- add/remove sets
+- quick set actions (+2.5, +5, etc.)
+- timer
+- history reopen/delete
+- bodyweight and PR tracking
+- backup / restore / reset
 
 Replace:
 - index.html
@@ -20,6 +27,6 @@ Replace:
 - sw.js
 
 Also upload:
-- rd-logo-cropped.png
+- hero-couple.jpg
 
-Keep your existing app icon files unless you want to replace them too.
+Keep your current app icons unless you want to replace them too.
